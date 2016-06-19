@@ -1,0 +1,2 @@
+# moedaepods
+Pod Specs
